@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="32.572859">
+<testcase classname="CricBuzz application feature" name="CricBuzz application scenario" time="32.572859">
+<system-out><![CDATA[Given User open the browser.................................................passed
+When User is on homepage....................................................passed
+Then User clicks on IPL link................................................passed
+Then User clicks points table...............................................passed
+Then User User clicks a team................................................passed
+Then click on logo and navigate to homepage.................................passed
+Then User close the browser.................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
